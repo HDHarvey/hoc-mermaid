@@ -7,8 +7,7 @@ KHACH_HANG {
 string ma_kh PK
 string ten
 string email
-string sdtbuoi 03 mermaid-guide.md 2025-08-22
-7 / 14
+string sdt
 }
 DON_HANG {
 string ma_don PK
